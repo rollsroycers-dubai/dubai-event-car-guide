@@ -1,0 +1,6 @@
+site_name: Dubai event car guide
+site_url: https://rollsroycers-dubai-event-car-guide.readthedocs.io/
+nav:
+  - Home: index.md
+theme:
+  name: readthedocs
